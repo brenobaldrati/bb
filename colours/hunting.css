@@ -1,0 +1,7 @@
+:root {
+  --color-bg-default: #FDF2EE !important;
+  --color-text-default: #327447 !important;
+  --color-text-default-light: #818878 !important;
+  --color-text-gray: #818878 !important;
+  --color-border-default: rgba(255,255,255,0.25) !important;
+}
