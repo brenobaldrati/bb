@@ -10,10 +10,10 @@ html {
   --color-text-gray: #959BA9 !important;
   --color-border-default: rgba(23,23,24,0.15) !important;
   --collection-card-cover-size-large: 210px !important;
-  --font-family-primary: 'Fira Sans', sans-serif; !important;
-  --primary-font: 'Fira Sans', sans-serif; !important;
-  --font-family-secondary: 'Playfair Display', serif;  !important;
-  --secondary-font: p'Playfair Display', serif;  !important;
+  --font-family-primary: 'Fira Sans', sans-serif !important;
+  --primary-font: 'Fira Sans', sans-serif !important;
+  --font-family-secondary: 'Playfair Display', serif  !important;
+  --secondary-font: 'Playfair Display', serif !important;
 }
 
 @media screen and (min-width: 50em) {
@@ -28,7 +28,7 @@ html {
 /* Increase base font size for large screens */
 @media screen and (min-width: 50em) {
   html {
-    font-size: 16px !important;
+    font-size: 18px !important;
   }
 }
 
