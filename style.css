@@ -28,7 +28,7 @@ html {
 /* Increase base font size for large screens */
 @media screen and (min-width: 50em) {
   html {
-    font-size: 18px !important;
+    font-size: 16px !important;
   }
 }
 
