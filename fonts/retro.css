@@ -1,7 +1,7 @@
 /* Retro */
 :root {
-  --font-family-primary: 'Sorts Mill Goudy', serif; !important;
-  --primary-font: 'Sorts Mill Goudy', serif; !important;
-  --font-family-secondary: 'Corben', cursive; !important;
-  --secondary-font: 'Corben', cursive; !important;
+  --font-family-primary: 'Sorts Mill Goudy', serif !important;
+  --primary-font: 'Sorts Mill Goudy', serif !important;
+  --font-family-secondary: 'Corben', cursive !important;
+  --secondary-font: 'Corben', cursive !important;
 }
