@@ -175,8 +175,7 @@ h3.notion-heading .notion-semantic-string {
 }
 
 .nav-logo {
- font-family: Corben, serif;
- font-weight: bold;
+ font-family: var(--font-family-tertiary) !important;
   
 }
 
