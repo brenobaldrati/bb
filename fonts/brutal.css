@@ -2,8 +2,8 @@
 :root {
   --font-family-primary: 'Spectral', serif !important;
   --primary-font: 'Spectral', serif !important;
-  --font-family-secondary: 'Spectral', serif !important;
-  --secondary-font: 'Spectral', serif !important;
-  --font-family-tertiary:  'Yatra One', cursive !important;
-  --tertiary-font: 'Yatra One', cursive !important;
+  --font-family-secondary: 'Yatra One', cursive  !important;
+  --secondary-font: 'Yatra One', cursive  !important;
+  --font-family-tertiary:  'Archivo Black', sans-serif !important;
+  --tertiary-font: 'Archivo Black', sans-serif !important;
 }
