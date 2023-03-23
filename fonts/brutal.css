@@ -1,3 +1,9 @@
-font-family: 'Archivo Black', sans-serif;
-font-family: 'Spectral', serif;
-font-family: 'Yatra One', cursive;
+/* Brutal */
+:root {
+  --font-family-primary: 'Spectral', serif !important;
+  --primary-font: 'Spectral', serif !important;
+  --font-family-secondary: 'Spectral', serif !important;
+  --secondary-font: 'Spectral', serif !important;
+  --font-family-tertiary:  'Yatra One', cursive !important;
+  --tertiary-font: 'Yatra One', cursive !important;
+}
