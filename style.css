@@ -174,7 +174,7 @@ h3.notion-heading .notion-semantic-string {
   text-decoration: none;
 }
 
-.nav-logo {
+.nav-link .logo {
  font-family: var(--font-family-tertiary) !important;
   
 }
